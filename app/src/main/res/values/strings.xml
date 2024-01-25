@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SavingGoal</string>
+    <string name="label_what_your_goal">What Your Goal</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_saving_amount">Saving Amount</string>
+    <string name="label_select_date">Select Date</string>
+    <string name="label_bank_account">Bank Account</string>
+    <string name="label_select_account">Select Account</string>
+</resources>
